@@ -1,4 +1,9 @@
-## Hi there 👋
+👋 Hi, I’m Keith McKenzie <br>
+ 👀 I am interested in C++, Python, R and Java <br>
+ 🌱 I’m currently playing with Python and R. <br>
+ 📫 E-mail Address: keith@mckenzie.page<br>
+ 💻 Website: https://mckenzie.page <br>
+ <br>
 
 <!--
 **keithmckenzie/keithmckenzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
